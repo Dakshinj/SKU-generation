@@ -1,1 +1,1 @@
-# SKU-generation
+# SKU generation
